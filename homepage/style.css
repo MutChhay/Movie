@@ -23,13 +23,19 @@ section{
     z-index: 99;
     top: 0;
 }
-
-
-
-.header .logo{
-    padding: 100px;
+.logo{
+    margin-left: 100px;
     display: flex;
     color: #ffffff;
+}
+
+.header h1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .navbar ul {
